@@ -1,0 +1,28 @@
+.hide {
+    display: none;
+}
+.wrap {
+    background-color: rgb(165, 163, 163);
+    width: 200px;
+    padding: 200px;
+    padding-top: 100px;
+    height: 300px;
+}
+.zaholovok {
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    font-size: 2.3em;
+}
+.poshyk {
+    padding: 10px;
+    border: 1px solid rgb(109, 109, 109);
+    border-radius: 15px;
+    width: 100%;
+    box-sizing: border-box;
+    outline: none;
+}
+.least li {
+    font-size: 15px;
+    line-height: 1.5;
+    font-weight: normal;
+}
